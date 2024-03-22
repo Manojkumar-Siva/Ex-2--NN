@@ -124,7 +124,9 @@ plt.show()
 ### Scatter Plot:
 ![alt text](image-1.png)
 ### Error Plot:
-![alt text](image-2.png)
+
+<img src="image-2.png" width=400 height=350>
+
 ## RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
 
